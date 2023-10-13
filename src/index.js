@@ -4,6 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+/*
+export { default as Movies } from './components/Movies';
+export { default as MovieCard } from './components/MovieCard';
+export { default as MovieList } from './components/MovieList';
+export { default as Movie } from './components/Movie';
+*/
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
